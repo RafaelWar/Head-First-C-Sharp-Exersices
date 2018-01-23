@@ -1,0 +1,1 @@
+c:\users\rafael guerra\documents\visual studio 2015\Projects\WPFExample\WPFExample\bin\Debug\WPFExample.exe.config
