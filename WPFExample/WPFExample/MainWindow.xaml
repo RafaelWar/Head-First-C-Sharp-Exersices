@@ -7,26 +7,26 @@
         mc:Ignorable="d"
         Title="Save the Humans" Height="697" Width="1000">
     <Window.Resources>
-        
+
         <ControlTemplate x:Key="EnemyTemplate" TargetType="{x:Type ContentControl}">
-            
+
             <Grid/>
-            
+
         </ControlTemplate>
-        
+
     </Window.Resources>
-    
-    <Grid>
+
+    <Grid Background="Black">
         <Grid.ColumnDefinitions>
-            
+
             <ColumnDefinition Width="140"/>
             <ColumnDefinition/>
             <ColumnDefinition Width="160"/>
-            
+
         </Grid.ColumnDefinitions>
-        
+
         <Grid.RowDefinitions>
-            
+
             <RowDefinition/>
             <RowDefinition Height="150"/>
 
@@ -42,41 +42,67 @@
 
             <ContentControl Content="ContentControl" RenderTransformOrigin="0.523,-1.983" 
                             VerticalAlignment="Center" HorizontalAlignment="Center" Template="{DynamicResource EnemyTemplate}"/>
-            
+
         </StackPanel>
 
         <ProgressBar Grid.Column="1" Grid.Row="1" Height="20"/>
 
         <Canvas x:Name="playArea" Grid.Column="0" Grid.ColumnSpan="3">
-            
+
             <Canvas.Background>
-                
+
                 <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
-                    
+
                     <GradientStop Color="#FFA640EE"/>
-                    
+
                     <GradientStop Color="#FF57EE40" Offset="1"/>
-                    
+
                 </LinearGradientBrush>
-                
+
             </Canvas.Background>
-            
+
             <Ellipse Fill="Red" Height="100" Canvas.Left="868" Stroke="Black" Canvas.Top="554" Width="100"/>
-            
+
             <StackPanel x:Name="Human" Orientation="Vertical">
-                
+
                 <Ellipse Fill="White" Height="10" Width="10"/>
-                
+
                 <Rectangle Fill="White" Height="25" Width="10"/>
-                
+
             </StackPanel>
-            
+
+            <TextBlock Name="GameOverText"  FontFamily="Arial" FontSize="100" FontWeight="Bold" FontStyle="Italic" Text="Game Over" 
+                        VerticalAlignment="Center" HorizontalAlignment="Center" Canvas.Left="235" Canvas.Top="215"/>
+
+            <Rectangle Name="target" Height="50" Width="50" RenderTransformOrigin="0.5,0.5" Canvas.Left="715" Canvas.Top="350
+                       ">
+                
+                <Rectangle.RenderTransform>
+                    
+                    <TransformGroup>
+                        
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="45"/>
+                        <TranslateTransform/>
+                        
+                    </TransformGroup>
+                    
+                </Rectangle.RenderTransform>
+
+                <Rectangle.Fill>
+
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+
+                </Rectangle.Fill>
+                
+            </Rectangle>
+
         </Canvas>
 
-        <Button>
-            Name: Rafael
-        </Button>
-       
-
     </Grid>
+
 </Window>
