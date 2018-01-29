@@ -22,7 +22,19 @@ namespace WPFExample
     {
         public MainWindow()
         {
+            Random random = new Random();
+
             InitializeComponent();
+        }
+
+        private void startButton_Click(object sender, RoutedEventArgs e)
+        {
+            AddEnemy();
+        }
+
+        private void AddEnemy()
+        {
+            ContentControl enemy = new ContentControl();
         }
     }
 }

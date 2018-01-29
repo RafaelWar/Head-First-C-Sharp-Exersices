@@ -33,7 +33,7 @@
         </Grid.RowDefinitions>
 
         <Button x:Name="startButton" Content="Start!" Margin="0" Grid.Row="1" VerticalAlignment="Center" 
-                HorizontalAlignment="Center"/>
+                HorizontalAlignment="Center" Click="startButton_Click"/>
 
         <StackPanel Grid.Column="2" Grid.Row="1" Background="Black">
 
