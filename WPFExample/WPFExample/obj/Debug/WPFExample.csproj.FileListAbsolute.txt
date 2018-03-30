@@ -2,15 +2,13 @@ c:\users\rafael guerra\documents\visual studio 2015\Projects\WPFExample\WPFExamp
 C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\bin\Debug\WPFExample.exe.config
 C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\bin\Debug\WPFExample.exe
 C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\bin\Debug\WPFExample.pdb
+C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\obj\Debug\MainWindow.baml
 C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\obj\Debug\MainWindow.g.cs
 C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\obj\Debug\App.g.cs
 C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\obj\Debug\WPFExample_MarkupCompile.cache
-C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\obj\Debug\WPFExample_MarkupCompile.lref
-C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\obj\Debug\MainWindow.baml
 C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\obj\Debug\WPFExample.g.resources
 C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\obj\Debug\WPFExample.Properties.Resources.resources
 C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\obj\Debug\WPFExample.csproj.GenerateResource.Cache
 C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\obj\Debug\WPFExample.csproj.CoreCompileInputs.cache
 C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\obj\Debug\WPFExample.exe
 C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\obj\Debug\WPFExample.pdb
-C:\Users\Rafael Guerra\Documents\Visual Studio 2015\Projects\Head-First-C-Sharp-Exercises\Head-First-C-Sharp-Exersices\WPFExample\WPFExample\obj\Debug\WPFExample.csprojResolveAssemblyReference.cache
